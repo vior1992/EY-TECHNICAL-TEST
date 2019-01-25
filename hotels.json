@@ -1,16 +1,119 @@
 [
   {
-   "name" : "",
-   "brand" : "",
-   "image" : "",
+   "name" : "Riverside Maple Hotel & Spa",
+   "brand" : "gold",
+   "image" : "https://picsum.photos/400/250",
    "rating": {
-      "score": "",
-      "reviewNumber": ""
+      "score": "5",
+      "reviewNumber": "456"
    },
    "coordinates": {
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 422314.13,
+      "longitude": 4822590.13
+   }
+  },
+  {
+   "name" : "Regal Market Hotel",
+   "brand" : "red",
+   "image" : "https://picsum.photos/400/250",
+   "rating": {
+      "score": "4",
+      "reviewNumber": "345"
    },
-   "url": ""
+   "coordinates": {
+      "latitude": 44314.13,
+      "longitude": 4852590.13
+   }
+  },
+  {
+   "name" : "Ancient Market Hotel",
+   "brand" : "silver",
+   "image" : "https://picsum.photos/400/250",
+   "rating": {
+      "score": "3",
+      "reviewNumber": "1045"
+   },
+   "coordinates": {
+      "latitude": 44314.13,
+      "longitude": 4852590.13
+   }
+  },
+  {
+   "name" : "Crown Bay Hotel",
+   "brand" : "blue",
+   "image" : "https://picsum.photos/400/250",
+   "rating": {
+      "score": "3",
+      "reviewNumber": "1045"
+   },
+   "coordinates": {
+      "latitude": 44314.13,
+      "longitude": 4852590.13
+   }
+  },
+  {
+   "name" : "Rainbow Hotel",
+   "brand" : "red",
+   "image" : "https://picsum.photos/400/250",
+   "rating": {
+      "score": "5",
+      "reviewNumber": "9097"
+   },
+   "coordinates": {
+      "latitude": 48314.13,
+      "longitude": 4382590.13
+   }
+  },
+  {
+   "name" : "Emerald Hotel & Spa",
+   "brand" : "gold",
+   "image" : "https://picsum.photos/400/250",
+   "rating": {
+      "score": "4",
+      "reviewNumber": "97"
+   },
+   "coordinates": {
+      "latitude": 48314.56,
+      "longitude": 4382590.13
+   }
+  },
+  {
+   "name" : "Emerald Hotel & Spa",
+   "brand" : "gold",
+   "image" : "https://picsum.photos/400/250",
+   "rating": {
+      "score": "4",
+      "reviewNumber": "97"
+   },
+   "coordinates": {
+      "latitude": 48314.13,
+      "longitude": 4382590.12
+   }
+  },
+  {
+   "name" : "Southern Pool Hotel",
+   "brand" : "blue",
+   "image" : "https://picsum.photos/400/250",
+   "rating": {
+      "score": "3",
+      "reviewNumber": "97"
+   },
+   "coordinates": {
+      "latitude": 48314.9,
+      "longitude": 4382590.45
+   }
+  },
+  {
+   "name" : "Sublime Atoll Hotel",
+   "brand" : "gold",
+   "image" : "https://picsum.photos/400/250",
+   "rating": {
+      "score": "3",
+      "reviewNumber": "39847"
+   },
+   "coordinates": {
+      "latitude": 483214.9,
+      "longitude": 4282590.45
+   }
   }
 ]
