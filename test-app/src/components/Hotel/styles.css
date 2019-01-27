@@ -7,26 +7,27 @@
       -ms-flex-direction: column;
           flex-direction: column;
   max-width: 100%;
+  height: 400px;
   padding: 10px;
   -webkit-box-shadow: 0 4px 17px 0px rgba(0, 0, 0, 0.15);
           box-shadow: 0 4px 17px 0px rgba(0, 0, 0, 0.15);
   border-radius: 10px;
   margin: 20px;
-  word-break: break-all;
-  background-color: white; }
+  background-color: #ffffff; }
 
 .hotel__image {
   border-radius: 10px;
   max-width: 300px; }
 
 .hotel__info {
-  padding-left: 10px; }
+  padding-left: 10px;
+  width: 100%; }
 
 .info__name {
   text-transform: capitalize;
   color: #3b2be2;
   font-size: 24px;
-  max-width: 100%; }
+  max-width: 250px; }
 
 .info__reviews {
   font-size: 16px; }
